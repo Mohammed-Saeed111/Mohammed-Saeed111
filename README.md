@@ -45,7 +45,7 @@ I'm a passionate developer who loves learning new things in programming. I have 
 
 ## 🚀 **My Projects**
 
-### 1. **[HTML, CSS, and JavaScript Project](https://github.com/Mohammed-Saeed111/Project_HTML_And_CSS_JS)**
+### 1. **pizza-website_HTML_CSS_JS**
 
 - **Description**: This project demonstrates how to use **HTML**, **CSS**, and **JavaScript** to build interactive web interfaces. It includes multi-page designs and responsive layouts.
 - **Technologies Used**: HTML5 | CSS3 | JavaScript.
