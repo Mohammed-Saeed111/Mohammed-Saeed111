@@ -56,7 +56,7 @@ I'm a passionate developer who loves learning new things in programming. I have 
 
 ![HTML, CSS, JS Project](https://via.placeholder.com/600x400.gif?text=HTML+CSS+JS+Project)
 
-**Project Link**: [Project_HTML_And_CSS_JS](https://github.com/Mohammed-Saeed111/Project_HTML_And_CSS_JS)
+**Project Link**: https://mohammed-saeed111.github.io/pizza-website_HTML_CSS_JS/
 
 ---
 
