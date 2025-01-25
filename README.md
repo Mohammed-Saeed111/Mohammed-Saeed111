@@ -47,10 +47,9 @@ I'm a passionate developer who loves learning new things in programming. I have 
 
 - **LinkedIn**: www.linkedin.com/in/mohammed-saeed-b8a5ba19b
 
-
 - **Email**: mohamedsaied4556@gmail.com
 
--**Facebook**: https://www.facebook.com/profile.php?id=100028105510518
+- **Facebook**: https://www.facebook.com/profile.php?id=100028105510518
   
 - **Phone**: 01147534345
 
