@@ -43,53 +43,6 @@ I'm a passionate developer who loves learning new things in programming. I have 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saeed111&" alt="Mohammed-Saeed111" /></p>
 
-## 🚀 **My Projects**
-
-### 1. **pizza-website_HTML_CSS_JS**
-
-- **Description**: This project demonstrates how to use **HTML**, **CSS**, and **JavaScript** to build interactive web interfaces. It includes multi-page designs and responsive layouts.
-- **Technologies Used**: HTML5 | CSS3 | JavaScript.
-- **Features**:
-  - Responsive design for all screen sizes.
-  - JavaScript effects to enhance the user experience.
-  - Code organization using modern CSS techniques like Flexbox.
-
-![HTML, CSS, JS Project](https://via.placeholder.com/600x400.gif?text=HTML+CSS+JS+Project)
-
-**Project Link**: https://mohammed-saeed111.github.io/pizza-website_HTML_CSS_JS/
-
----
-
-### 2. **[Full-Stack E-commerce Project](https://github.com/Mohammed-Saeed111/Fullstack-Ecommerce)**
-
-- **Description**: This is a full-fledged e-commerce store project, where I used **React.js** for the front-end, **Node.js** for the backend, and **MongoDB** as the database.
-- **Technologies Used**: React.js | Node.js | MongoDB | Express.js.
-- **Features**:
-  - Browse products and add them to the shopping cart.
-  - Payment page with multiple payment methods.
-  - User account management and data storage.
-
-![E-commerce Project](https://via.placeholder.com/600x400.gif?text=E-commerce+Project)
-
-**Project Link**: [Fullstack-Ecommerce](https://github.com/Mohammed-Saeed111/Fullstack-Ecommerce)
-
----
-
-### 3. **[Custom Design with HTML, CSS, and JavaScript](https://github.com/Mohammed-Saeed111/Special_Design_HTML_CSS_JS)**
-
-- **Description**: This project showcases custom designs using **HTML**, **CSS**, and **JavaScript**, with a focus on interactivity and modern design trends.
-- **Technologies Used**: HTML5 | CSS3 | JavaScript.
-- **Features**:
-  - Modern design with interactive effects.
-  - Special improvements for mobile user experience.
-  - CSS techniques like Grid and Flexbox for responsive layouts.
-
-![Special Design Project](file:///C:/Users/Mo/Documents/GitHub/Project_responsive_HTML_CSS_JS/index.html#events
-
-**Project Link**: file:///C:/Users/Mo/Documents/GitHub/Project_responsive_HTML_CSS_JS/index.html#events
-
----
-
 ## 📍 **How to Contact Me**
 
 - **LinkedIn**: www.linkedin.com/in/mohammed-saeed-b8a5ba19b
