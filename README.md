@@ -21,7 +21,7 @@ I'm a passionate developer who loves learning new things in programming. I have 
 ## 🛠️ **Technologies I Work With**
 
 ### **Front-End:**
-- **HTML5** | **CSS3** | **JavaScript** | **React.js** | **Angular.js**
+- **HTML5** | **CSS3** | **JavaScript** | **React.js** | **Next.js**
 - **Bootstrap** | **Sass** | **Material UI**
 
 ### **Back-End:**
