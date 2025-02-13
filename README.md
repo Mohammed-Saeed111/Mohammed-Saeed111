@@ -3,7 +3,7 @@
 
 ## **Full-Stack Web Developer** | **React.js & Node.js Expert**
 
-Welcome to my profile! I'm a **Full-Stack Web Developer** specializing in building innovative and high-quality web applications using modern technologies like **React.js | Angualr.js** and **Node.js**. I always strive to provide the best technological solutions in every project I work on.
+Welcome to my profile! I'm a **Full-Stack Web Developer** specializing in building innovative and high-quality web applications using modern technologies like **React.js | Next.js** and **Node.js**. I always strive to provide the best technological solutions in every project I work on.
 
 <div style="margin-bottom:20px">
         <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
