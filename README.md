@@ -167,16 +167,24 @@ I care about clean architecture, performance optimization, and writing maintaina
 </a>
 
 </p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Saeed111&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saeed111&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saeed111&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saeed111&theme=radical" alt="GitHub Streak" width="70%" />
 </p>
+
+---
 
 ## 📍 How to Contact Me
 
