@@ -69,8 +69,6 @@ I care about clean architecture, performance optimization, and writing maintaina
 - Docker
 - GitHub Actions (CI/CD)
 - Linux
-- Nginx
-- PM2
 
 ---
 
@@ -87,9 +85,6 @@ I care about clean architecture, performance optimization, and writing maintaina
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
@@ -174,20 +169,17 @@ I care about clean architecture, performance optimization, and writing maintaina
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Saeed111&show_icons=true&locale=en&layout=compact" alt="Mohammed-Saeed111" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saeed111&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saeed111&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saeed111&show_icons=true&locale=en" alt="Mohammed-Saeed111" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saeed111&theme=radical" alt="GitHub Streak" width="70%" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saeed111&" alt="Mohammed-Saeed111" />
-</p>
 
 ---
 
