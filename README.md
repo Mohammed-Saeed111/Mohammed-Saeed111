@@ -167,51 +167,16 @@ I care about clean architecture, performance optimization, and writing maintaina
 </a>
 
 </p>
-
----## 📊 GitHub Stats & My 9 Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saeed111&layout=compact&theme=radical" alt="Top Languages" width="60%" />
-</p>
-
-### 🌍 My 9 Key Projects
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Mohammed-Saeed111/AI-Chatbot" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/AI-Chatbot/main/screenshot.png" width="150" alt="AI Chatbot" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/MERN-Ecommerce" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/MERN-Ecommerce/main/screenshot.png" width="150" alt="E-Commerce" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/Weather-Dashboard" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/Weather-Dashboard/main/screenshot.png" width="150" alt="Weather Dashboard" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/Task-Manager" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/Task-Manager/main/screenshot.png" width="150" alt="Task Manager" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saeed111&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saeed111&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mohammed-Saeed111/Next-Blog" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/Next-Blog/main/screenshot.png" width="150" alt="Blog Platform" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/Portfolio" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/Portfolio/main/screenshot.png" width="150" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/Smart-Bike" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/Smart-Bike/main/screenshot.png" width="150" alt="Smart Bike" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/E-Learning" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/E-Learning/main/screenshot.png" width="150" alt="E-Learning" />
-  </a>
-  <a href="https://github.com/Mohammed-Saeed111/AI-Automation" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammed-Saeed111/AI-Automation/main/screenshot.png" width="150" alt="AI Automation" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saeed111&theme=radical" alt="GitHub Streak" width="70%" />
 </p>
-
-
-
----
 
 ## 📍 How to Contact Me
 
