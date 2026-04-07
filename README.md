@@ -196,11 +196,8 @@ I care about clean architecture, performance optimization, and writing maintaina
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saeed-b8a5ba19b/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammed-Saeed111-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Saeed111)
-
 [![Email](https://img.shields.io/badge/Email-mohamedsaied4556@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsaied4556@gmail.com)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201147534345 )
 
 </div>
