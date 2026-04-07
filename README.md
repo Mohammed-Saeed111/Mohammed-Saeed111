@@ -191,17 +191,6 @@ I care about clean architecture, performance optimization, and writing maintaina
 
 ---
 
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedreda22&theme=tokyo-night&bg_color=000000&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
