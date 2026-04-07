@@ -8,18 +8,20 @@
 ---
 
 ## 🚀 Full Stack TypeScript Developer | React | Node.js | MongoDB | Next.js | AI-Powered Applications | Cloud & DevOps
+
 <p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Saeed111"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Saeed111" alt="Trophies" />
+  </a>
 </p>
-
 ---
 
 ## 🌱 About Me
