@@ -191,13 +191,31 @@ I care about clean architecture, performance optimization, and writing maintaina
 
 ---
 
-## 📍 How to Contact Me
 
-- 🔗 **LinkedIn**: www.linkedin.com/in/mohammed-saeed-b8a5ba19b  
-- 📧 **Email**: mohamedsaied4556@gmail.com  
-- 📘 **Facebook**: https://www.facebook.com/profile.php?id=100028105510518  
-- 📱 **Phone**: 01147534345  
-- 💬 **WhatsApp**: 01147534345  
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedreda22&theme=tokyo-night&bg_color=000000&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saeed-b8a5ba19b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedreda22-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedreda22)
+
+[![Email](https://img.shields.io/badge/Email-mohamedsaied4556@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsaied4556@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201147534345 )
+
+</div>
+
 
 ---
 
