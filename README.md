@@ -14,41 +14,26 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
---1
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
-</div>
 
---2
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+Scalable+Systems;Always+Learning" />
-
-  <br><br>
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-
-</div>
---3
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
-</div>
---4
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
---5
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</div>
---6 
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer+(MERN+%26+MEAN);DevOps+%26+Cloud+Engineer;Building+Scalable+Production+Systems;Always+Learning+%26+Growing" />
-
-  <br><br>
-
+  <!-- 🔥 Multi Setup Developer -->
   <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500" />
+
+  <br><br>
+
+  <!-- ⚡ Cyberpunk Room -->
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="500" />
+
+  <br><br>
+
+  <!-- 💀 Hacker Room -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+
+  <br><br>
+
+  <!-- 🚀 Ultra Wide Setup -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 
 </div>
 
