@@ -4,38 +4,6 @@
 
 ---
 
-## 🚀 Full Stack TypeScript Developer | React | Node.js | MongoDB | Next.js | AI-Powered Applications | Cloud & DevOps
-
-
-<div>
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<div align="center">
-
-  <!-- 🔥 Multi Setup Developer -->
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500" />
-
-  <br><br>
-
-  <!-- ⚡ Cyberpunk Room -->
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="500" />
-
-  <br><br>
-
-  <!-- 💀 Hacker Room -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
-
-  <br><br>
-
-  <!-- 🚀 Ultra Wide Setup -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
-
-</div>
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
