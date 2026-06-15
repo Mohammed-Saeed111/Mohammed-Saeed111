@@ -6,13 +6,7 @@
 
 ## 🚀 Full Stack TypeScript Developer | React | Node.js | MongoDB | Next.js | AI-Powered Applications | Cloud & DevOps
 
-<!-- <div>
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p> -->
 <div>
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
@@ -20,6 +14,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Saeed111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+--1
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+</div>
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
