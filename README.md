@@ -16,57 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Saeed111" alt="Trophies"/>
   </a> -->
 </p>
----
 
-## 🌱 About Me
-
-I'm a passionate **Full Stack Developer** focused on building scalable, high-performance, and AI-powered web applications.
-
-I specialize in:
-
-- TypeScript-first development
-- Building production apps with React & Next.js
-- Designing scalable backend systems with Node.js & MongoDB
-- Deploying cloud infrastructure using AWS
-- Implementing DevOps best practices
-- Integrating AI into real-world SaaS products
-
-I care about clean architecture, performance optimization, and writing maintainable code.
-
----
-
-## 🛠️ Technologies I Work With
-
-### ⚡ Front-End
-- TypeScript
-- React.js
-- Next.js (App Router / SSR / SSG)
-- Redux Toolkit
-- Tailwind CSS
-- Material UI
-
-### 🔥 Back-End
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
-- JWT Authentication
-
-### 🤖 AI-Powered Development
-- LLM API Integrations
-- AI Chat Applications
-- Prompt Engineering
-- AI Automation Tools
-- Intelligent SaaS Platforms
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM, CloudFront)
-- Docker
-- GitHub Actions (CI/CD)
-- Linux
-
----
 
 ## 🚀 Languages and Tools:
 
