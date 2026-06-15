@@ -19,6 +19,17 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
 
+--2
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+Scalable+Systems;Always+Learning" />
+
+  <br><br>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+</div>
+
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Saeed111" alt="Trophies"/>
