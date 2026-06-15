@@ -41,6 +41,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </div>
+--6 
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer+(MERN+%26+MEAN);DevOps+%26+Cloud+Engineer;Building+Scalable+Production+Systems;Always+Learning+%26+Growing" />
+
+  <br><br>
+
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500" />
+
+</div>
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
