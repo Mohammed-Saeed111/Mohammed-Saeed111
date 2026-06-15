@@ -1,6 +1,22 @@
 # 👋 Hi! I'm **Mohammed Saeed** 👨‍💻 👓 💻 أهلا أنا محمد سعيد  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+production-ready+systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+production-ready+systems;Always+Learning+New+Technologies" /> 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="450" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450" />
