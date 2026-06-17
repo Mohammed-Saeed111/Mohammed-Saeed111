@@ -1,6 +1,8 @@
 # 👋 Hi! I'm **Mohammed Saeed** 👨‍💻 👓 💻 أهلا أنا محمد سعيد  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+production-ready+systems;Always+Learning+New+Technologies" /> 
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+production-ready+systems;Always+Learning+New+Technologies" />  -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&center=true&vCenter=true&width=750&size=30&color=00F7FF,00FFD5,00FF88,FFFFFF&background=0D1117&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+Production+Systems;Always+Learning" />
 
 
 
